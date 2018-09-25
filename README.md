@@ -31,10 +31,6 @@ To install the app you only have tu run the apk in an Android Phone or if you do
 * **Carlota Catot Bragós** – _Co-Developer_ - [carlotacb](https://github.com/carlotacb)
 * **Gorka Piñol Tena** - _Co-Developer_ - [heyslide](https://github.com/heyslide)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
-
 ## Final Mark
 
 Group Mark: 9
