@@ -24,7 +24,7 @@ To install the app you only have tu run the apk in an Android Phone or if you do
 
 ## Built With
 
-* [Android Studio](https://developer.android.com/studio/) - We use Android Studio for the hole developing of the app. The application doesn't have backend, because the main objective of the project was the interface and the interaction of the screens, for the backend we only have a local database using a text file.
+* [Android Studio](https://developer.android.com/studio/) - We use Android Studio developing the hole app. The application doesn't have backend, because the main objective of the project was the interface and the interaction of the screens, for the backend we only have a local database using a text file.
 
 ## Authors
 
